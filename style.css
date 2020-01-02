@@ -1,8 +1,54 @@
-h1{
-font-size: 44px;
-color: green;  
+body {
+  font-size: 18px;
+  font-weight: lighter;
 }
 
-body{
-	background-color: #F0FFFF;
+h1 {
+  font-size: 70px;
+  color: green;
+  font-weight: lighter;
+  font-family: courier;
+}
+
+h2 {
+  font-family: Helvetica;
+}
+
+a {
+  color: #E9967A;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #e9967a;
+}
+#banner{
+	background-image: url(Pictures/LP1_Medium.jpg);
+	border-image-width: center;
+	text-align: center;
+	height: 600px;
+	padding: 150px;
+}
+
+#banner h1{
+	font-size: 70px;
+	color: #A0522C;
+}
+
+#banner h2{
+	color: white;
+}
+
+.cards{
+	text-align: center;
+	padding: 50px
+}
+
+#footer {
+	background-color: #2F4F4F;
+	padding: 30px;
+}
+
+#footer a:hover{
+	color: white;
 }
