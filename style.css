@@ -1,17 +1,20 @@
 body {
   font-size: 18px;
   font-weight: lighter;
+ font-family: 'Poppins', sans-serif;
 }
 
 h1 {
   font-size: 70px;
   color: green;
-  font-weight: lighter;
+  font-weight: bold;
   font-family: courier;
 }
 
 h2 {
-  font-family: Helvetica;
+  font-family: 'Long Cang', cursive;
+  text-shadow: black 4px 4px 19px;
+  font-size: 40px;
 }
 
 a {
@@ -37,6 +40,7 @@ a:hover {
 
 #banner h2{
 	color: white;
+	opacity: 0.7;
 }
 
 .cards{
@@ -47,8 +51,19 @@ a:hover {
 #footer {
 	background-color: #2F4F4F;
 	padding: 30px;
+	font-size: 19px;
 }
 
 #footer a:hover{
 	color: white;
+}
+
+#footer p{
+	color: white;
+	text-align: center;
+}
+
+.list-inline{
+	text-align: center;
+	size: 20px;
 }
