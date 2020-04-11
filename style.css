@@ -1,7 +1,7 @@
 body {
   font-size: 18px;
   font-weight: lighter;
- font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1 {
@@ -27,7 +27,7 @@ a:hover {
 }
 #banner{
 	background-image: url(Pictures/LP1_Medium.jpg);
-	border-image-width: center;
+	border-image-width: center; 	
 	text-align: center;
 	height: 600px;
 	padding: 150px;
@@ -37,6 +37,7 @@ a:hover {
 	font-size: 70px;
 	color: #A0522C;
 }
+
 
 #banner h2{
 	color: white;
