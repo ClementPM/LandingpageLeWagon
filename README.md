@@ -1,3 +1,3 @@
 # LandingpageLeWagon
 
-![alt text](screenshots/MLP.png "this is the result!")
+(screenshots/MLP.png "this is the result!")
